@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @333IAN
+- 👋 Hi, I’m IAN ISAVWA
 - 👀 I’m a developer interested in machine learning and a programmer.. 
 - 🌱 I’m currently learning Javascript,PhP and HTML..
 - 💞️ I’m looking to collaborate on coding challenges,bootcamps and getting to interact more.
